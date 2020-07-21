@@ -1,0 +1,4 @@
+name: Proper Statistics Lib
+version: @version@
+main: me.katsumag.properstatisticslib.ProperStatisticsLib
+api-version: 1.16
